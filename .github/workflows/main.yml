@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: dcmanik11/PokemonAPI-syseng-miniproject:latest
+        tags: dcmanik11/pokemonapi-syseng-miniproject:latest
