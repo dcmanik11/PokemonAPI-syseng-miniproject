@@ -20,7 +20,9 @@ alembic==1.13.1 aniso8601==9.0.1 blinker==1.7.0 certifi==2024.2.2 charset-normal
 https://pokeapi.co/api/v2/
 
 ## Project Plan
-https://docs.google.com/document/d/1neJATCiuSQ8JIU6gGLtFuF9EdWYrQhVElMev5yeJSWY/edit?usp=sharing
+https://docs.google.com/document/d/1neJATCiuSQ8JIU6gGLtFuF9EdWYrQhVElMev5yeJSWY/edit?usp=sharing (Mini Project Docs)
+
+https://miro.com/app/board/uXjVNgvjBgo=/?share_link_id=164788851351 (Miro Timeline)
 
 ## Creator
 dcmanik
