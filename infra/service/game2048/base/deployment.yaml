@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: pokeanary
+  name: pokemonjeremy
 spec:
   selector:
     matchLabels:
-      app: pokeanary
+      app: pokemonjeremy
   template:
     metadata:
       labels:
-        app: pokeanary
+        app: pokemonjeremy
     spec:
       containers:
-      - name: pokeanary
-        image: andrewidianto12/coba-mini-project:latest
+      - name: pokemonjeremy
+        image: dcmanik11/pokemonapi-syseng-miniproject:latest
         imagePullPolicy: Always
         resources:
           requests:
@@ -42,10 +42,10 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: pokeanary-svc
+  name: pokemonjeremy-svc
 spec:
   selector:
-    app: pokeanary
+    app: pokemonjeremy
   ports:
   - port: 80
     targetPort: 80

@@ -2,9 +2,9 @@
   path: /spec/template/spec/containers/0/envFrom
   value:
     - configMapRef:
-        name: pokeanary-config
+        name: pokemonjeremy-config
     - secretRef:
-        name: pokeanary-secret
+        name: pokemonjeremy-secret
 # - op: add
 #   path: /spec/template/spec/nodeSelector
 #   value:
