@@ -24,6 +24,9 @@ https://docs.google.com/document/d/1neJATCiuSQ8JIU6gGLtFuF9EdWYrQhVElMev5yeJSWY/
 
 https://miro.com/app/board/uXjVNgvjBgo=/?share_link_id=164788851351 (Miro Timeline)
 
+## Web
+https://pokemonjeremy.shamirhusein.my.id/
+
 ## Creator
 dcmanik
 
