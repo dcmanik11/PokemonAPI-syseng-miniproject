@@ -28,6 +28,6 @@ https://miro.com/app/board/uXjVNgvjBgo=/?share_link_id=164788851351 (Miro Timeli
 https://pokemonjeremy.shamirhusein.my.id/
 
 ## Creator
-dcmanik
+dcmanik (Djeremiah C)
 
-fasyailyac
+fasyailyac (Fasya Ilya C)
